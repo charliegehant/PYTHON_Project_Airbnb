@@ -18,6 +18,7 @@
 > - Using Python & various libraries (pandas, numpy, matplotlib, seaborn, os, sklearn, folium)
 > - Sourcing and importing a dataset, as well as a JSON file
 > - Data CLEANING, WRANGLING, MERGING, SUBSETTING, GROUPING
+> - Creating HEATMAPS, SCATTERPLOTS, PAIR PLOTS, CATEGORICAL PLOTS
 > - Performing advanced tasks such as LINEAR REGRESSION & K-MEANS CLUSTERING
 > - Creating GEOGRAPHICAL VISUALIZATIONS
 > - Creating a Tableau storyboard
