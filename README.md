@@ -19,7 +19,7 @@
 > - Sourcing and importing a dataset, as well as a JSON file
 > - Data CLEANING, WRANGLING, MERGING, SUBSETTING, GROUPING
 > - Creating HEATMAPS, SCATTERPLOTS, PAIR PLOTS, CATEGORICAL PLOTS
-> - Performing advanced tasks such as LINEAR REGRESSION & K-MEANS CLUSTERING
+> - Performing advanced tasks such as LINEAR REGRESSION, K-MEANS CLUSTERING, TIME-SERIES
 > - Creating GEOGRAPHICAL VISUALIZATIONS
 > - Creating a Tableau storyboard
 
