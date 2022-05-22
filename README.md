@@ -24,5 +24,5 @@
 
 #### DATA CITATION
 
-> DATA source: http://insideairbnb.com/get-the-data/  - downloaded May 2022
-> JSON file: https://skgrange.github.io/data.html - downloaded May 2022
+> - DATA source: http://insideairbnb.com/get-the-data/  - downloaded May 2022
+> - JSON file: https://skgrange.github.io/data.html - downloaded May 2022
